@@ -1,0 +1,20 @@
+{
+    "name": "soswapp/policy.soswapp",
+    "description": "Site Policies -  Web App",
+    "keywords": ["php", "javascript","7","seven","os","web","terms","policy","privacy"],
+    "homepage": "https://github.com/soswapp/policy.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        },
+        {
+            "name": "Tym Frontiers Ltd.",
+            "email": "dev@tymfrontiers.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {}
+}
